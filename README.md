@@ -79,3 +79,5 @@ PASS: 3584 single-cycle checks + 512 MUL/DIV checks, 0 errors
 - **Name:** Lam Duy Loc
 - **Student ID:** SE190907
 - **Specialization:** Semiconductor & Integrated Circuit Design — FPT University
+- GitHub: https://github.com/LocLam134
+- Email: loc.slh11357@gmail.com
