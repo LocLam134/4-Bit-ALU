@@ -6,7 +6,6 @@ This repository contains the RTL design and comprehensive verification of a robu
 
 Unlike standard introductory ALUs, this project implements a hybrid architecture capable of handling instantaneous **single-cycle combinational operations** (Addition, Subtraction, Logic) alongside complex **multi-cycle sequential operations** (Multiplication, Division) using a Finite State Machine (FSM). The system processes data using the Two's Complement format (range: -8 to +7).
 
-**Author:** Lam Duy Loc (SE190907)
 
 ## ✨ Key Features
 
