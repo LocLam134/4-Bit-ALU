@@ -73,3 +73,9 @@ PASS: 3584 single-cycle checks + 512 MUL/DIV checks, 0 errors
 5. Run **RTL Analysis** to view the Elaborated Schematic.
 6. Click **Run Simulation -> Run Behavioral Simulation**.
 7. **Important:** By default, Vivado stops at `1000ns`. To execute the full 4096 test cases, click the **`Run All`** button (F3) on the top toolbar or type `run all` in the Tcl Console. Observe the final `PASS` log in the console.
+
+
+## 👨‍💻 Author
+- **Name:** Lam Duy Loc
+- **Student ID:** SE190907
+- **Specialization:** Semiconductor & Integrated Circuit Design — FPT University
